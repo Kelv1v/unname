@@ -1210,4 +1210,3 @@ function Library:Window(Name, Color, SizeY)
 end
 
 return Library
-1
